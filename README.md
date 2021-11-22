@@ -17,3 +17,4 @@ which each tweet refers grouped in health, subsides, general, culture and others
 The information is displayed in a dashboard, in which in real time and dynamically the user
 can filter by compensation fund, service and dates, and see the sentiment analysis, the word
 cloud with the most common words and the amount of tweets per day and hour.
+
