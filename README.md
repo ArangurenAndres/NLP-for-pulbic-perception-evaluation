@@ -18,3 +18,5 @@ The information is displayed in a dashboard, in which in real time and dynamical
 can filter by compensation fund, service and dates, and see the sentiment analysis, the word
 cloud with the most common words and the amount of tweets per day and hour.
 
+## The complete report of the project is contained in the pdf file named NLP_public_perception
+
